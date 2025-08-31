@@ -29,7 +29,8 @@ My professional interests:
 ### 💬 Social
 | <a href="https://t.me/misterzurg"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/misterzurg/"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/misterzurg"><img align="left" width="45px" src="resourses/habr.svg" class="shades-of-purple"/></a>|<a href="https://www.slideshare.net/ssuserfa68c1"><img align="left" width="45px" src="resourses/slideshare.svg" class="shades-of-purple"/></a>|<a href="https://www.credly.com/users/denis-zakharov/badges"><img align="left" width="45px" src="resourses/credly.svg" class="shades-of-purple"/></a>
 |----|----|----|----|----|
+
 ### 💬 Social
 | <a href="https://t.me/ArtemLetyagin"><img align="left" width="45px" src="content/telegram.svg" class="shades-of-purple"/></a>  | <a
-href="www.linkedin.com/in/artem-letyagin-7bb946233"><img align="left" width="45px" src="content/linkedin.svg" class="shades-of-purple"/></a> | <a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>
+href="www.linkedin.com/in/artem-letyagin-7bb946233"><img align="left" width="45px" src="content/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>
 |----|----|----|
