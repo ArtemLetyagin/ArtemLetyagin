@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I create myself in the field of MLOps and specialize in implementing a data-driven approach to business
+🚀I create myself in the field of MLOps and specialize in implementing a data-driven approach to business
 
-My professional interests:
+**My professional interests:**
 1. Creating a DWH from scratch
 2. Implementation of analytics in the company's business processes
 3. Working with Big Data
@@ -26,11 +26,7 @@ My professional interests:
 3. DB - Postgres, ClickHouse, Cassandra
 4. ETL/ELT - Apache Airflow, Dag factory
 5. Dashboards - Tableau, Grafana
-### 💬 Social
-| <a href="https://t.me/ArtemLetyagin"><img align="left" width="45px" src="content/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/artem-letyagin-7bb946233"><img align="left" width="45px" src="content/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>|<a href="https://www.credly.com/users/denis-zakharov/badges"><img align="left" width="45px" src="resourses/credly.svg" class="shades-of-purple"/></a>
-|----|----|----|----|
 
 ### 💬 Social
-| <a href="https://t.me/ArtemLetyagin"><img align="left" width="45px" src="content/telegram.svg" class="shades-of-purple"/></a>  | <a
-href="https://www.linkedin.com/in/artem-letyagin-7bb946233"><img align="left" width="45px" src="content/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>
+| <a href="https://t.me/ArtemLetyagin"><img align="left" width="45px" src="content/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/artem-letyagin-7bb946233"><img align="left" width="45px" src="content/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>
 |----|----|----|
