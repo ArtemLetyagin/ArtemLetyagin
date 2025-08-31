@@ -17,7 +17,7 @@
 ### Education
 |University|Description|
 |:----:|:-----|
-|ITMO| (2022 — 2024) Master of Big Data and Machine Learning |
+|ITMO| (2024 — 2026) Master of Big Data and Machine Learning |
 |NSU| (2020  — 2024) Bachelor of Mechanic and Mathematic |
 
 ### Skills
