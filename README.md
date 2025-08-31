@@ -30,5 +30,5 @@ My professional interests:
 ## 💬 Social
 | <a href="https://t.me/ArtemLetyagin"><img align="left" width="45px" src="content/telegram.svg" class="shades-of-purple"/></a>  |
 <a href="www.linkedin.com/in/artem-letyagin-7bb946233"><img align="left" width="45px" src="content/linkedin.svg" class="shades-of-purple"/></a>|
-<a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>|
+<a href="https://career.habr.com/arsem"><img align="left" width="45px" src="content/habr.svg" class="shades-of-purple"/></a>
 |----|----|----|
