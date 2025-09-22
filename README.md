@@ -12,7 +12,7 @@
 |Comapany|Description|
 |:----:|:-----|
 |RES| (2024) Data Analyst, Data Engineer |
-|Abrace AI| (2023 — 2024) Machine Learning Engineer |
+|Abrace AI| (2022 — 2024) Machine Learning Engineer |
 
 ### Education
 |University|Description|
